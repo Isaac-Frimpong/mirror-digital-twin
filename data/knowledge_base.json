@@ -1,0 +1,14 @@
+[
+  {"date":"2026-09-05","time_period":"morning","activity":"running","duration_minutes":45,"note":"A relaxed run outdoors. I enjoy the quiet morning air."},
+  {"date":"2026-09-12","time_period":"morning","activity":"walking","duration_minutes":35,"note":"Walked around the neighborhood and enjoyed the fresh air."},
+  {"date":"2026-09-19","time_period":"morning","activity":"running","duration_minutes":40,"note":"Running felt good today. I like starting the weekend outside."},
+  {"date":"2026-09-26","time_period":"morning","activity":"walking","duration_minutes":30,"note":"A gentle walk outdoors before breakfast."},
+  {"date":"2026-10-03","time_period":"morning","activity":"running","duration_minutes":50,"note":"Morning running session. I am working toward a consistent routine."},
+  {"date":"2026-10-05","time_period":"evening","activity":"reading","duration_minutes":30,"note":"Read a science fiction book to unwind after work."},
+  {"date":"2026-10-07","time_period":"evening","activity":"coding","duration_minutes":60,"note":"Worked on a small Python project and learned something new."},
+  {"date":"2026-10-09","time_period":"afternoon","activity":"walking","duration_minutes":20,"note":"A short walk during my afternoon break."},
+  {"date":"2026-10-11","time_period":"morning","activity":"reading","duration_minutes":40,"note":"Read a few chapters with coffee on a quiet Sunday."},
+  {"date":"2026-10-12","time_period":"evening","activity":"coding","duration_minutes":45,"note":"Practiced Python coding in the evening."},
+  {"date":"2026-10-14","time_period":"morning","activity":"running","duration_minutes":35,"note":"An easy morning run outdoors."},
+  {"date":"2026-10-15","time_period":"afternoon","activity":"reading","duration_minutes":25,"note":"Took time to read during a break."}
+]
